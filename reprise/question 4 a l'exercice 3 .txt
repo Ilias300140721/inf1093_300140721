@@ -1,0 +1,3 @@
+question 4 a l'exercice 3 :
+
+L'approche que je préfère et la recherche dichotomique car elle a trop d'avantage et car ca aide a mieux pratiquer et mieux comprendre les concepts de l'algorithme et son utilisation garantit la recherche 
